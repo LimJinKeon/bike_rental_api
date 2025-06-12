@@ -1,6 +1,6 @@
-package bike_rental_api.a.filter;
+package bike_rental_api.filter;
 
-import bike_rental_api.a.handler.JwtTokenProvider;
+import bike_rental_api.handler.JwtTokenProvider;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.Cookie;

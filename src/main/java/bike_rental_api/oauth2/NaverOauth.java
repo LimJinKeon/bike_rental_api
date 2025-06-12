@@ -1,9 +1,9 @@
-package bike_rental_api.a;
+package bike_rental_api.oauth2;
 
 import org.springframework.stereotype.Component;
 
 @Component
-public class KakaoOauth implements SocialOauth {
+public class NaverOauth implements SocialOauth {
     @Override
     public String getOauthRedirectURL() {
         return "";

@@ -1,7 +1,7 @@
 package bike_rental_api.controller;
 
-import bike_rental_api.a.CustomOAuth2Service;
-import bike_rental_api.a.SocialLoginType;
+import bike_rental_api.oauth2.CustomOAuth2Service;
+import bike_rental_api.oauth2.SocialLoginType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;

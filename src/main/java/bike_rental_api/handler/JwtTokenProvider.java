@@ -1,4 +1,4 @@
-package bike_rental_api.a.handler;
+package bike_rental_api.handler;
 
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.Keys;

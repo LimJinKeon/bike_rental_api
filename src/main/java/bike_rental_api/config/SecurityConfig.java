@@ -1,10 +1,10 @@
 package bike_rental_api.config;
 
-import bike_rental_api.a.CustomOAuth2Service;
-import bike_rental_api.a.filter.JwtAuthenticationFilter;
-import bike_rental_api.a.handler.JwtAuthenticationEntryPoint;
-import bike_rental_api.a.handler.JwtTokenProvider;
-import bike_rental_api.a.handler.OAuth2LoginSuccessHandler;
+import bike_rental_api.oauth2.CustomOAuth2Service;
+import bike_rental_api.filter.JwtAuthenticationFilter;
+import bike_rental_api.handler.JwtAuthenticationEntryPoint;
+import bike_rental_api.handler.JwtTokenProvider;
+import bike_rental_api.handler.OAuth2LoginSuccessHandler;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package bike_rental_api.a.handler; // 적절한 패키지명으로 변경
+package bike_rental_api.handler; // 적절한 패키지명으로 변경
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.Cookie;

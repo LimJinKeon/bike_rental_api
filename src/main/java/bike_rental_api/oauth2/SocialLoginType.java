@@ -1,4 +1,4 @@
-package bike_rental_api.a;
+package bike_rental_api.oauth2;
 
 public enum SocialLoginType {
     google,

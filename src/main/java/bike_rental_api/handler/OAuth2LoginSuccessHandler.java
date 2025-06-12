@@ -1,4 +1,4 @@
-package bike_rental_api.a.handler;
+package bike_rental_api.handler;
 
 import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletRequest;
